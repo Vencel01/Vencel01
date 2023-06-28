@@ -1,5 +1,4 @@
-# Hi there
-![gif](https://github.com/Vencel01/Vencel01/assets/117198342/bde938c3-aa79-4f72-ba80-8160f8d15275)
+# Hi there!
 
 ## About Me
 My name is Vencel and I'm a 16 year old aspiring developer.
